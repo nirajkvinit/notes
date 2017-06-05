@@ -3,3 +3,9 @@ Incase of large number of untracked files in a repository, ensure that file mode
 
 Unstaged changes left after git reset --hard
 	https://stackoverflow.com/questions/11383094/unstaged-changes-left-after-git-reset-hard	
+
+Git Add Remote URL
+	git remote add origin https://github.com/user/repo.git
+
+Git Change Remote URL
+	git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
