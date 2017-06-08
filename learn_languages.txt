@@ -1,0 +1,50 @@
+Learn for Work
+----------------------------
+Language/Backend Framework
+	Laravel
+	Django 
+	Express
+	Node.js
+	Meteor
+
+FrontEnd/JS
+	Underscore
+	Backbone
+	Angular
+	requirejs
+	ReactJS
+	D3.js
+	Ember.js
+	Vue.js
+
+Database
+	Redis
+	MongoDB
+	PostgreSQL
+	
+
+-------------------------------------------------------------
+		Hobby
+-------------------------------------------------------------
+Language
+	Python
+	Ruby
+	Erlang
+	Scala
+	GoLang
+	Clojure
+	Haskell
+	Java
+	Swift
+	ShellScripting
+	Elixir (Erlang VM)
+Python Framework
+	Flask
+	Django
+Javascript
+	Hapi.js
+	Sails.js
+Database
+	RethinkDB
+	CouchDB
+

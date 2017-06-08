@@ -1,0 +1,34 @@
+* Installing Git for Linux
+	sudo apt-get install git
+ 
+* Configuring GitHub
+	Once the installation has successfully completed, the next thing to do is to set up the configuration details of the GitHub user. To do this 		use the following two commands by replacing "user_name" with your GitHub username and replacing "email_id" with your email-id you used to 		create your GitHub account.
+
+	git config --global user.name "user_name"
+	git config --global user.email "email_id"
+
+* We can see all of the configuration items that have been set by typing:
+    git config --list
+
+--------------------------------------------------------------------
+* Downloading project from github
+	git clone git://github.com/SpringSource/spring-data-graph-examples.git
+
+* Adding content in working dir to git
+	git add * or .
+
+* Commit
+	git commit -m "some_message"
+
+* Push to Server
+	git push origin master
+
+
+1. Add all the untracked files/folder in a local repository
+	git add .
+2. Commit all the changes
+	git commit -m "message for commit"
+3. Push the changes to github (need to provide login credentials)
+	git push origin master
+4. Deleting a file
+	git rm <file_name>

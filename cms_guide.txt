@@ -1,0 +1,109 @@
+Drupal Drupal – The most difficult one, but also the most powerful CMS.
+Wordpress
+ModX
+SilverStripe
+
+
+Some of the most popular brands who use WordPress as CMS are:
+Sony,
+eBay,
+Facebook,
+Disney,
+LinkedIN and many more
+Basically this platform enables the construction of websites in any kind, such as:
+Informative website,
+eCommerse website,
+Photographic website,
+Adsense website,
+Video collection website,
+Membership website etc.
+The best thing is, that WordPress is with open source software, preferred by Google, so as a consequence your site can benefit from certain ranking preferences. The great thing about WordPress as website development CMS is that it is written with the help of a standard high-quality code and produces semantic markup, making your WordPress site very attractive for the search engines.
+ 
+WordPress is a SEO Friendly platform, but if you're using WordPress for a first time it is not a good idea to experiment with the optimisation of your website. It is highly recommended to appoint this task to a professional in order to avoid a potential ban by Google. WordPress is considered to be one of the best protected CMS, it can be used in many ways, and there are numerous free plugins that could be used on your website.
+- See more at: https://www.goliveuk.com/blog/entryid/68/top-5-most-popular-content-management-systems-cms-for-website-development#sthash.07FRLSoT.dpuf
+
+Drupal is a website development CMS with open source and it is suitable for:
+Informative websites,
+Social networking websites,
+Member websites,
+Forums
+Blogs
+Portals
+Web applications.
+Drupal is an extremely flexible website development CMS and can be tailored to the needs of every business. However, it isn’t as user-friendly as WordPress or Joomla, due to the fact that it is a new website development CMS and is a heavier platform compared to the above CMSs, and so is not the preferred choice by the majority.
+ 
+Popular brands using Drupal are:
+Twitter,
+The White House,
+NASA,
+Intel,
+Warner Brothers and many more.
+- See more at: https://www.goliveuk.com/blog/entryid/68/top-5-most-popular-content-management-systems-cms-for-website-development#sthash.07FRLSoT.dpuf
+
+
+
+Joomla is evil. That’s all there is too it. The only way to get the functionality you would ever really need beyond basic content management is to pay large sums of money for commercial modules. The community is huge in the worst possible way. There are a million modules for one problem and it is near impossible to find the right one.
+The interface is deplorable. None of the methods of content management make any sense, and it is obviously not meant to be user friendly considering the top dollar training offered for the system. If there were ever a CMS to avoid, this would be it.
+That’s the end of the list. If you know to avoid Joomla! you’ll know how to avoid anything else that might hinder your experience creating and managing a website. Whew! There! Joomla!
+
+
+“I would have to say that if I was mentoring a beginner I would suggest WordPress. WordPress seems to have a vibrant community.
+
+They have brand recognition with people outside of the technical market. There are a lot of plugins for WordPress. But, unfortunately, creating your own themes from scratch with WordPress will require a reasonable knowledge of PHP. Second would be Joomla. Third would be Drupal. Drupal is just too complex. It is the best of the three. But it has a steep learning curve that most would not be able to handle.”
+
+– Marcus Neto from Blue Fish Design Studio
+
+
+One of the main problems Joomla has is that it needs some learning before use. The learning curve is not that steep when compared to Drupal, but it is still steep enough to scare off novice developers. Another major issue is that it lacks proper SEO capabilities and has limited ACL support (comparatively).
+
+Unlike its competitors, SEO on Joomla will require a lot of effort on the developer’s part if they want the same level of Search Engine Optimization that other CMS already offer easily.
+
+
+WordPress is used by some of the most widely recognized brands in the world such as CNN, CBS New York, Harvard Business Review, Boise State University, New York Times, Dole, Glad, Mercedes-Benz and Vogue.
+
+WordPress is a dynamic open-source content management system which is used to power millions of websites, web applications, and blogs. It currently powers more than 23% of the top 10 million websites on the Internet. WordPress' usability, extensibility, and mature development community make it a popular and secure choice for websites of all sizes.
+
+Since its inception in 2003, WordPress has undergone continual hardening so its core software can address and mitigate common security threats, including the Top 10 list identified by The Open Web Application Security Project (OWASP) as common security vulnerabilities, which are discussed in this document.
+
+The WordPress Security Team, in collaboration with the WordPress Core Leadership Team and backed by the WordPress global community, works to identify and resolve security issues in the core software available for distribution and installation at WordPress.org, as well as recommending and documenting security best practices for third-party plugin and theme authors.
+
+
+Servers are cheap. If you know what are you doing it will be ok. Real problem will be how to get content that will attract all these people.
+
+OWASP - The Open Web Application Security Project (OWASP) 
+Injection, Broken Authentication and Session Management, Cross Site Scripting (XSS), Insecure Direct Object Reference, Security Misconfiguration, Sensitive Data Exposure, Missing Function Level Access Control, Cross Site Request Forgery (CSRF), Using Components with Known Vulnerabilities, Unvalidated Redirects and Forwards, XXE (XML eXternal Entity) processing attacks, SSRF (Server Side Request Forgery) Attacks, 
+
+
+
+Wordpress Philisophy - https://wordpress.org/about/philosophy/
+
+http://motherapp.com/2013/03/13/software-quaility-factors-apps/
+http://www.socialmediatoday.com/content/24-things-consider-when-designing-and-developing-website
+
+Flexibility - Flexibility is the ability of software to add/modify/remove functionality without damaging the current system.
+Maintainability - Maintainability is a little similar with flexibility but it focuses on modifications about error corrections and minor function modifications.
+
+Availability, 
+Robustness, 
+Fault Tolerance 
+Reliability
+Usability
+Manageability
+Functionality
+
+
+74.6 Million Sites Depend on WordPress
+
+In the realm of self-hosted sites, WordPress accounts for 18.9% of all websites. That’s even more astounding when you consider that over 70% of sites worldwide do not use a CMS.
+
+Translingualism
+
+WordPress is used by 59.1% of all the websites maintained on any content management system. This is 25.8% of all websites.
+
+
+WordPress is used by some of the most widely recognized brands in the world such as CNN, CBS New York, Harvard Business Review, Boise State University, New York Times, Dole, Glad, Mercedes-Benz and Vogue.
+
+
+Under the hood WordPress provides a lot of the features that your app will need, things like translations, user management, HTTP requests, databases, URL routing and much, much more.
+
+The WordPress APIs make it possible for you to create plugins to extend WordPress. WordPress’s extensibility lies in the thousands of hooks at your disposal. 

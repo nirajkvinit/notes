@@ -1,0 +1,19 @@
+Reference - http://learninglaravel.net/
+
+* Install Composer
+	curl -s https://getcomposer.org/installer | php
+
+* if Error - The detect_unicode setting must be disabled.
+	curl -s getcomposer.org/installer | php -d detect_unicode=Off
+
+* The installer will download composer.phar to your working directory. To access composer easily from anywhere on our system, we need to move the composer.phar file to /usr/local/bin directory. Execute this command:
+	sudo mv composer.phar /usr/local/bin/composer
+
+* Setup PATH: 
+	export PATH="~/.composer/vendor/bin:$PATH"
+
+* Setup Laravel for using its command.
+	composer global require "laravel/installer"
+
+* Create Laravel directory
+	laravel new nameOfYourSite
