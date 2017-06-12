@@ -3,6 +3,4 @@ http://v2.wp-api.org/guide/authentication/
 http://v2.wp-api.org/extending/adding/
 
 
-Designing a new API today means reinventing a long series of wheels. Once your API
-is finished, your client developers have to reinvent corresponding wheels on the client
-side.
+Designing a new API today means reinventing a long series of wheels. Once your API is finished, your client developers have to reinvent corresponding wheels on the client side.
