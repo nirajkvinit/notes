@@ -1,0 +1,11 @@
+#Strategies and methods that make NoSQL search effective
+- Range index
+- Reverse index
+- Search ranking
+- Stemming
+- Synonym expansion
+- Entity extraction
+- Wildcard search
+- Proximity search
+- Key word in context ( KWIC )
+- Misspelled words
