@@ -9,7 +9,19 @@ ref: https://techtuts.info/2014/06/convert-ppk-id_rsa-linux/
 #Connect to a server via ssh on ubuntu
 	`ssh -i do_private_key_rsa <username>@<ip_address> -p <port_number>`
 
+#Extracting .tar.gz files
+If your tar file is compressed using a gzip compressor, use this command to uncompress it.
+	`$ tar xvzf file.tar.gz`
 
+#compress a directory
+	`tar -zcvf archive.tar.gz directory/ `
+
+#Move all files from a directory to another directory
+`mv  -v ~/Downloads/* ~/Videos/`
+
+#Human readable total size of a directory
+`du -hs /path/to/directory`
+-----------------nginx-----------------
 
 #<domain>.org
 ```
