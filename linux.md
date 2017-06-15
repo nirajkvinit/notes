@@ -21,8 +21,17 @@ If your tar file is compressed using a gzip compressor, use this command to unco
 
 #Human readable total size of a directory
 `du -hs /path/to/directory`
------------------nginx-----------------
 
+#How to create command alias in Ubuntu
+Ref. https://askubuntu.com/questions/17536/how-do-i-create-a-permanent-bash-alias
+
+#Back up MySQL Database
+`$ mysqldump --opt -u [uname] -p [dbname] > [backupfile.sql]`
+
+#Restore MySQL Database
+`$ mysql -u [uname] -p [db_to_restore] < [backupfile.sql]` Ref. http://webcheatsheet.com/sql/mysql_backup_restore.php
+
+-----------------nginx-----------------
 #<domain>.org
 ```
 server {
