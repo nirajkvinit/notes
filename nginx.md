@@ -1,3 +1,4 @@
+# Normal
 server {
     listen 80;
     listen [::]:80;
@@ -18,3 +19,5 @@ server {
         fastcgi_pass unix:/run/php/php7.0-fpm.sock;
     }
 }
+-----------------------
+#Wordpress
