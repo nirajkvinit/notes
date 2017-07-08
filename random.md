@@ -2,6 +2,9 @@ Teamviewer 12 not ready error on ubuntu 16.04
 	sudo systemctl stop teamviewerd.service
 	sudo systemctl start teamviewerd.service
 
+*. Follow Coding standards - http://symfony.com/doc/current/contributing/code/standards.html
+*. Use PHP_CodeSniffer to check code against best coding standards - http://pear.php.net/package/PHP_CodeSniffer/
+*. Use Fabien Potencier’s PHP Coding Standards Fixer - http://cs.sensiolabs.org/
 *. Always think about what user wants. Build fast and get feedback faster to improve upon the existing system.
 *. Never be afraid of pivoting and abandoning your existing codebase to start something from scratch if it helps improving the process in the long run.
 *. Always optimize your server. Always be on the lookout to keep it highly optimize.
