@@ -6,7 +6,7 @@
 * Because of hoisting, it is usually best to declare variables at the beginning of a function.
 * Each variable declaration is hoisted: the declaration is moved to the beginning of the function, but assignments that it makes stay put.
 * IIFE (immediately invoked function expression, pronounced “iffy”). An IIFE is a function expression that is called immediately after you define it.
-
+* You can spread a string over multiple lines by escaping the end of the line (the line-terminating character, the line terminator) with a backslash:
 #Undefined
 	* undefined means “no value.” Uninitialized variables are undefined
 	* Missing parameters are undefined.
