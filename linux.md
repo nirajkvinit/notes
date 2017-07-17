@@ -38,3 +38,7 @@ swaks --to user@example.com
 first, combine the split archive to a single archive: `zip -s 0 split-foo.zip --out unsplit-foo.zip`
 Then, extract the single archive using unzip: `unzip unsplit-foo.zip`
 
+# Extract a rar file
+1. Install unrar - `sudo apt-get install unrar`
+2. Extract rar file - `unrar x -r <path>/myfile.rar`
+
