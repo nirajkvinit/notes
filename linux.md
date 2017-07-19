@@ -42,3 +42,9 @@ Then, extract the single archive using unzip: `unzip unsplit-foo.zip`
 1. Install unrar - `sudo apt-get install unrar`
 2. Extract rar file - `unrar x -r <path>/myfile.rar`
 
+# UFW block IP Addresses
+sudo ufw deny from 91.200.12.0/24
+Ref - 
+	1. https://serverfault.com/questions/592061/block-range-of-ip-addresses
+	2. https://scottlinux.com/2013/08/30/block-geo-region-list-of-ips-with-ufw-in-linux/
+
