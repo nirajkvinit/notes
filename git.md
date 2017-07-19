@@ -9,3 +9,6 @@ Git Add Remote URL
 
 Git Change Remote URL
 	git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+
+# ref
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
