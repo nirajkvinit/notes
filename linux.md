@@ -1,3 +1,6 @@
+# Bash Aliases
+https://askubuntu.com/questions/582452/location-of-bash-aliases
+
 # Convert PPK (Putty private key) to id_rsa (openssh private key)
 1. Install puttygen (part of the putty package):
     `sudo apt-get install putty`

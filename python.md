@@ -4,6 +4,12 @@ To use the virtualenv use the command ```$ source <virtualenv_dir_name>/bin/acti
 Ref -
 http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/
 
+# virtualenv workflow
+Working Effectively with Python Virtual Environments (Virtualenv)
+https://www.youtube.com/watch?v=8KWVEc6vFgA
+Edit ~/.bash_profile to add the following aliases
+alias ae='deactivate &> /dev/null; source ./venv/bin/activate'
+alias de='deactivate'
 
 use ```os.getcwd()``` to get current working directory.
 use ```os.path.dirname(os.path.abspath(__file__))``` to get directory name of the current file
