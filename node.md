@@ -2,6 +2,10 @@
 # How to Install Specific Nodejs Version using NVM
 Ref - https://tecadmin.net/install-nodejs-with-nvm/
 
+* Install NVM
+	`curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash`
+* Reload System Environment
+	`source ~/.profile`
 * List Available Node.js Versions
 	`nvm ls-remote`
 * Installing Node.js
