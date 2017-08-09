@@ -11,8 +11,10 @@ Edit ~/.bash_profile to add the following aliases
 alias ae='deactivate &> /dev/null; source ./venv/bin/activate'
 alias de='deactivate'
 
+
 use ```os.getcwd()``` to get current working directory.
 use ```os.path.dirname(os.path.abspath(__file__))``` to get directory name of the current file
+
 
 #loading module from files in sibling directory
 Here the executing file is in another directory and is sibling of example directory. From example directory module humansize is being imported.
