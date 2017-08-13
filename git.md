@@ -12,3 +12,7 @@ Git Change Remote URL
 
 # ref
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+# Some useful commands
+git checkout -- .
