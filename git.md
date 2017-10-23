@@ -15,4 +15,14 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 
 
 # Some useful commands
-git checkout -- .
+To clear working directory
+	`git checkout -- .`
+Revert to last-1 commit
+	`git reset --soft HEAD~1`
+Hard Reset
+	`git reset --hard HEAD -`
+
+# Git still shows files as modified after adding to .gitignore
+https://stackoverflow.com/questions/9750606/git-still-shows-files-as-modified-after-adding-to-gitignore
+To stop this you have to do : `git rm -r --cached .idea/`
+
