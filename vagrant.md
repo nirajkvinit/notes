@@ -1,5 +1,4 @@
 Ref. https://www.taniarascia.com/what-are-vagrant-and-virtualbox-and-how-do-i-use-them/
-
 vagrant box add ubuntu/trusty64
 vagrant init ubuntu/trusty64
 
@@ -19,3 +18,5 @@ vagrant up			Start up virtual machine
 vagrant reload			Restart virtual machine
 vagrant halt			Shut down virtual machine
 vagrant ssh			SSH into the virtual machine
+
+
