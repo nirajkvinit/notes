@@ -32,3 +32,5 @@ Kill tmux server, along with all sessions:
 
 tmux kill-server
 
+Reference - https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340
+
