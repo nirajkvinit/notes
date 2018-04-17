@@ -1,0 +1,45 @@
+## Stop and remove all docker containers
+` docker rm $(docker ps -aq) `
+
+## Docker list all containers
+`docker container ls`
+
+## Docker List all container processes
+`docker ps -a`
+
+## Docker list all images
+`docker images` or `docker image ls`
+
+# Create a docker image
+In order to create a docker image you need to create a Dockerfile inside the folder based which will contain the docker build configurations.
+i.e.
+ref. https://docs.docker.com/get-started/part2/#dockerfile
+```
+# Use an official Python runtime as a parent image
+FROM python:2.7-slim
+
+# Set the working directory to /app
+WORKDIR /app
+
+# Copy the current directory contents into the container at /app
+ADD . /app
+
+# Install any needed packages specified in requirements.txt
+RUN pip install --trusted-host pypi.python.org -r requirements.txt
+
+# Make port 80 available to the world outside this container
+EXPOSE 80
+
+# Define environment variable
+ENV NAME World
+
+# Run app.py when the container launches
+CMD ["python", "app.py"]
+```
+
+## Building the docker image based off the above docker file
+`docker build -t <imagename> .` e.g. `docker build -t friendlyhello .`
+
+## To run the docker image
+`docker run -p <host_port>:<guest_port> <image_name>` e.g. `docker run -p 4000:80 friendlyhello`
+To run the image in the background i.e. detached mode add -d flag. e.g. `docker run -d -p 4000:80 friendlyhello`

@@ -1,0 +1,24 @@
+Libraries to learn and use
+-----------------------
+flit - for simple packaging
+sched
+begin
+logger
+request
+matplotlib
+pyqtgraph
+numpy
+pywebview
+bottle
+dominate
+psutils
+watchdog - for watching OS events i.e. filesystem changes
+hug - for simple web services
+webcolors
+inflect - for words transformations
+arrow - for datetime with timezones
+parsedatetime - for parsing datetime
+pytz - timezones
+Delorean - date time parsing
+Pendulum - date time parsing
+Chronyk - Date time parsing

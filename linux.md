@@ -1,6 +1,11 @@
 # Bash Aliases
 https://askubuntu.com/questions/582452/location-of-bash-aliases
 
+# Find Linux Files by Name or ExtensionPermalink
+Use find from the command line to locate a specific file by name or extension. The following example searches for *.err files in the /home/username/ directory and all sub-directories:
+
+	`find /home/username/ -name "*.err"`
+
 # Convert PPK (Putty private key) to id_rsa (openssh private key)
 1. Install puttygen (part of the putty package):
     `sudo apt-get install putty`
@@ -30,6 +35,11 @@ If your tar file is compressed using a gzip compressor, use this command to unco
 
 # How to create command alias in Ubuntu
 Ref. https://askubuntu.com/questions/17536/how-do-i-create-a-permanent-bash-alias
+
+# Rsync - Syncing Remote Folders with local
+`$ rsync -azhvP <user>@<host>:<remote directory synced from> <local directory synced to> -e 'ssh -p <custom ssh port number>' `
+example:
+`$ rsync -azhvP pankaj@159.26.23.95:/home/pankaj/dump/ . -e 'ssh -p 1234'`
 
 #Access remote database from command line
 `$ mysql -u {username} -p{password} -h {remote server ip} {DB name}`
