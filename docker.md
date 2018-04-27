@@ -43,3 +43,10 @@ CMD ["python", "app.py"]
 ## To run the docker image
 `docker run -p <host_port>:<guest_port> <image_name>` e.g. `docker run -p 4000:80 friendlyhello`
 To run the image in the background i.e. detached mode add -d flag. e.g. `docker run -d -p 4000:80 friendlyhello`
+
+## Docker Compose 
+sudo curl -L https://github.com/docker/compose/releases/download/1.21.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+
+
+`sudo ifconfig vboxnet0 down && sudo ifconfig vboxnet0 up ` is the easies fix at this point. https://github.com/docker/kitematic/issues/1193
