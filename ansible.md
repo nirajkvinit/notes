@@ -10,3 +10,15 @@ tallydevweb | FAILED! => {
 }
 ```
 Just install python `$sudo apt install python`
+
+## Installing LEMP on AWS EC2 instance via ansible
+In order to configure your AWS EC2 Instance via ansible you need to configure your ansible hosts file to setup remote hosts (aka inventories)
+
+
+
+
+
+### Refs.
+https://deliciousbrains.com/hosting-wordpress-setup-secure-virtual-server/
+https://stackoverflow.com/questions/42123317/how-to-use-a-public-keypair-pem-file-for-ansible-playbooks
+https://deliciousbrains.com/automating-server-setup-ansible/
