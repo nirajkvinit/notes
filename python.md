@@ -30,3 +30,7 @@ Ref - Fundaments of Python - 5.1.6
 # Create Python3 virtualenv in a project's directory
 python3 -m venv ./venv
 source ./venv/bin/activate
+--------------------------------------------------------------------
+
+run this setvirtualenvproject while the virtualenv is active and you are in the project directory
+workon <project_name> will activate the environment and take you to the project

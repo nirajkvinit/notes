@@ -17,6 +17,8 @@ ref: https://techtuts.info/2014/06/convert-ppk-id_rsa-linux/
 # Connect to a server via ssh on ubuntu
 	`ssh -i do_private_key_rsa <username>@<ip_address> -p <port_number>`
 
+
+/.bash_aliases
 #Reload RC File (bashreload)
 	`. ~/.bashrc` or `source ~/.bashrc`
 
@@ -70,5 +72,8 @@ sudo ufw deny from 91.200.12.0/24
 Ref - 
 	1. https://serverfault.com/questions/592061/block-range-of-ip-addresses
 	2. https://scottlinux.com/2013/08/30/block-geo-region-list-of-ips-with-ufw-in-linux/
+-----------------------------
+# AWS CLI s3 commands
+
 
 
