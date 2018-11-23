@@ -27,6 +27,10 @@ Mutable objects (such as lists) have some methods devoted entirely to modifying 
 Such methods are called mutators. Examples are the list methods insert , append , extend , and sort . Because a change of state is all that is desired, a mutator method usually returns no value of interest to the caller. Python never-theless automatically returns the special value None even when a method does not explicitly return a value.
 Ref - Fundaments of Python - 5.1.6
 
+# Create Python2 Virtualenv in a project's directory
+virtualenv venv
+source venv/bin/activate
+
 # Create Python3 virtualenv in a project's directory
 python3 -m venv ./venv
 source ./venv/bin/activate

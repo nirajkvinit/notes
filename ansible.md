@@ -22,3 +22,8 @@ In order to configure your AWS EC2 Instance via ansible you need to configure yo
 https://deliciousbrains.com/hosting-wordpress-setup-secure-virtual-server/
 https://stackoverflow.com/questions/42123317/how-to-use-a-public-keypair-pem-file-for-ansible-playbooks
 https://deliciousbrains.com/automating-server-setup-ansible/
+
+https://www.softwaretestinghelp.com/ansible-tutorial-1/
+https://askubuntu.com/questions/929934/how-to-create-multiple-ssh-keys
+https://www.softwaretestinghelp.com/ansible-tutorial-1/
+https://stackoverflow.com/questions/42123317/how-to-use-a-public-keypair-pem-file-for-ansible-playbooks
