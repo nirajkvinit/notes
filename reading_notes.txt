@@ -1,0 +1,7 @@
+Bill Wake proposed the mnemonic INVEST to remember the important characteristics of a good user story.
+• Independent
+• Negotiable
+• Valuable
+• Estimatable
+• Small
+• Testable
